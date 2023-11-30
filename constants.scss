@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'Miedinger W01 Bold';
+    src: url('./fonts/FontsFree-Net-Miedinger-W01-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Pragmatica';
+    src: url('./fonts/Pragmatica_Light.otf');
+}
+
+@font-face {
+    font-family: 'Pragmatica Medium';
+    src: url('./fonts/Pragmatica_Bold.otf');
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: url('./fonts/Inter.ttf');
+}
+
+//colors 
+$lime: #C0FF0E;
+$electricLime: #C0FF11;
+$yellowOrange: #ffae43;
+$white: #FFFFFF;
+$whisper: #E9E9E9;
+$honeyDew: #EDF6E0;
+$raven: #5f6d7e;
+$taupeGray: #878787;
+$black: #000000;
+$sealBrown: #131313;
+
+//fonts
+$font1: "Miedinger W01 Bold";
+$font2: "Pragmatica";
+$fontP2: "Pragmatica Medium";
+$font3: "Inter";
+
+//font sizes
+$mercury: 8px;
+$venus: 14px;
+$earth: 16px;
+$mars: 18px;
+$jupiter: 20px;
+$saturn: 24px;
+$uranus: 32px;
+$neptune: 42px;
+$pluto: 48px;
+
+//spacing
+$xs: 4px;
+$s: 8px;
+$ms: 16px;
+$m: 20px;
+$l: 24px;
+$xl: 30px;
+$xxl: 36px
